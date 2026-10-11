@@ -3,7 +3,7 @@
 This is a recreation of the QuadDoubler 68040 clock doubler accelerator for various Macintosh computers.
 The schematics have been reverse engineered and new PCBs were created based on the schematics.
   
-![fully populated board](/Performer_populated.jpg)
+![fully populated board](/QuadDoubler_populated.jpg)
 
 There are three board versions available that are electrically identical.
 The only difference between them is the orientation in which it fits into the host machines CPU socket.
