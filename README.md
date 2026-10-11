@@ -25,3 +25,36 @@ The GAL/PALCE needs to have a speed rating of 10ns. Faster or slower parts have 
 # Board Files
   
 The provided gerber files have been generated using the JLCPCB EAGLE cam job files.  
+
+# Partlist
+
+Part|Value|Package
+---|---|---
+C1|  10uF/10V |  C3216/A Case
+C2|  10uF/10V|  C3216/A Case
+C3|  100nF|  C1206
+C4|  100nF|  C1206
+C5|  100nF|  C1206
+C6|  100nF|  C1206
+C7|  100nF|  C1206
+C8|  100nF|  C1206
+C9|  100nF|  C1206
+C10|100nF|  C1206
+C11|100nF|  C1206
+C12|100nF|  C1206
+C13|100nF|  C1206
+FAN|2-pin header for 5V fan|
+P1|  PGA179 pin array|
+R1|  1k|R1206
+R2|  1k|R1206
+R3|  1k|R1206
+R4|  1k|R1206
+R5|  1k|R1206
+R6|  47|R1206
+R7|  47|R1206
+R8|  470k|R1206
+R9|  330|R1206
+R10|1k|R1206
+U1|  GAL20RA10|PLCC28
+U2|   socket/68040 CPU|PGA179
+U3|  MC88916DW80 |    SO20W
